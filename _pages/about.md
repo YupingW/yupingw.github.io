@@ -13,6 +13,12 @@ My current research focuses on applying data-driven approaches to investigate ho
 
 Before coming to BU, I received my master degree from Zhejiang University and bachelor  degree from Huazhong University of Science and Technology.
 
+Research interests
+------
+* Computational Social Scince
+* Social Computing
+* Social Media Analysis
+
 Education
 ======
 * B.E. in Automation, Huazhong University of Science and Technology, 2009-2013
