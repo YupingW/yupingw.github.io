@@ -1,15 +1,15 @@
 ---
 title: "Understanding the Use of Fauxtography on Social Media"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/yupingw2021icwsm
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2021
+venue: 'ICWSM'
 paperurl: 'https://arxiv.org/abs/2009.11792/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#---
+Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, Gianluca Stringhini
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
