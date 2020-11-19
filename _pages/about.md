@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Systems Engineering PhD student at Boston University, advised by [Prof. Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/index.html). I am also a member of [SeclabBU](https://seclab.bu.edu/) and [iDramaLab](https://idrama.science/). 
 
-My research focuses on applying quantitative methods investigating how misinformation spread over online social media, including Twitter, Reddit, 4chan, and Gab. 
+My current research mostly focuses on applying quantitative methods investigating how misinformation spread over online social media, including Twitter, Reddit, 4chan, and Gab. 
 
 
 
