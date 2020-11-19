@@ -86,7 +86,7 @@ author:
   location         : "Boston, MA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=PrQPUx8AAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=PrQPUx8AAAAJ&hl=zh-CN&oi=sra"
   email            : "yupingw@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/YupingW?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
