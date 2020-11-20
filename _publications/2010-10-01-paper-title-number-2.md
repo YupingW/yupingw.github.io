@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Controllability of multi-agent systems coupled by dynamic edges"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/yuping2015controllability
+excerpt: 'In this paper, we investigate the controllability properties of a first-order multi-agent coupled with dynamic edges (MADE) system. We provide the necessary and sufficient conditions for the controllability of generic system and homogeneous edges system. Interesting results include that the controllability of homogeneous edges MADE system has strong relationship with the induced multi-agent system. Besides, we propose a necessary condition about the controllability of the general heterogeneous edges MADE system. Also, for the star graph, we propose a sufficient condition to test whether it is controllable.'
+date: 2015-07-28
+venue: '2015 34th Chinese Control Conference (CCC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/7260707'
+citation: 'Wang, Yuping, Yanjun Li, and Ji Xiang. "Controllability of multi-agent systems coupled by dynamic edges." 2015 34th Chinese Control Conference (CCC). IEEE, 2015.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this paper, we investigate the controllability properties of a first-order multi-agent coupled with dynamic edges (MADE) system. We provide the necessary and sufficient conditions for the controllability of generic system and homogeneous edges system. Interesting results include that the controllability of homogeneous edges MADE system has strong relationship with the induced multi-agent system. Besides, we propose a necessary condition about the controllability of the general heterogeneous edges MADE system. Also, for the star graph, we propose a sufficient condition to test whether it is controllable.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Controllability of multi-agent systems coupled by dynamic edges](https://ieeexplore.ieee.org/abstract/document/7260707)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Wang, Yuping, Yanjun Li, and Ji Xiang. "Controllability of multi-agent systems coupled by dynamic edges." 2015 34th Chinese Control Conference (CCC). IEEE, 2015.
