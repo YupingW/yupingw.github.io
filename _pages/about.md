@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Systems Engineering PhD student at Boston University, advised by [Prof. Gianluca Stringhini](https://seclab.bu.edu/people/gianluca/index.html). I am also a member of [SeclabBU](https://seclab.bu.edu/) and [iDramaLab](https://idrama.science/). 
 
-My current research focuses on applying data-driven approaches to investigate how misinformation spreads over Web communities, e.g., Twitter, Reddit, 4chan, and Gab. In particular, we leverage quantitative methods (machine learning, computer vision, natural language processing, statistical inference) to measure the effects of misinformation. Thus, our research helps people better understand the misinformation propagation and provides basis on how to mitigate the malicious impact. 
+My current research focuses on applying data-driven approaches to investigate how misinformation spreads over Web communities, e.g., Twitter, Reddit, 4chan, and Gab. In particular, we build computational pipelines by leveraging quantitative methods (machine learning, computer vision, natural language processing, statistical inference) to measure the effects of misinformation. Thus, our research helps people better understand the misinformation propagation and provides basis on how to mitigate the malicious impact. 
 
 
 Research interests
@@ -38,7 +38,14 @@ This project investigated fauxtography (images manipulated to spread misinformat
 ICWSM, 2021.
 
 
+News stories on Web communities
+-------
+Studied on news stories shared on Web communities (Twitter, Reddit, Gab, and 4chan), characterized users' preference on these Web communities, and analyzed mutual
+influences between these social networks by using Hawkes Processes.
 
+A Multi-Platform Analysis of Political News Sharing and Discussion   
+*Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini.*    
+Under review.
 
 A data-driven personal website
 ======
