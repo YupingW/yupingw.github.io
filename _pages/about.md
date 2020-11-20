@@ -27,9 +27,9 @@ Education
  
 
 Projects
-======
+=======
 Research on fauxtography sharing on different web communities
-------
+-------
 This project investigated fauxtography (images manipulated to spread misinformation) shared on Web communities (Twitter, Reddit, and 4chan). We found that posts containing fauxtography significantly increases users' engagements (e.g., #likes,#retweets). We also found fauxtography are oftern shared in the form of memes. 
 
 [Understanding the Use of Fauxtography on Social Media](https://arxiv.org/abs/2009.11792)  
