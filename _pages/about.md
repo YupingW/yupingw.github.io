@@ -26,17 +26,16 @@ Education
 
  
 
-Publications
+Projects
 ======
 Research on fauxtography sharing on different web communities
 ------
-*This project investigated fauxtography (images manipulated to spread misinformation) shared on Web communities (Twitter, Reddit, and 4chan), characterized users' preference on these Web communities, and analyzed data.
+This project investigated fauxtography (images manipulated to spread misinformation) shared on Web communities (Twitter, Reddit, and 4chan), characterized users' preference on these Web communities, and analyzed data  
+[Understanding the Use of Fauxtography on Social Media](https://arxiv.org/abs/2009.11792)  
+Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini. *ICWSM, 2021.
 
-See [Understanding the Use of Fauxtography on Social Media](https://arxiv.org/abs/2009.11792)
 
 
-
-Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini. ICWSM, 2021.
 
 A data-driven personal website
 ======
