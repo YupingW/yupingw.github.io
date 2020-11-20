@@ -46,3 +46,8 @@ A Multi-Platform Analysis of Political News Sharing and Discussion
 *Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini.*    
 Under review.
 
+Skills
+======
+* Languages: Python, SQL, Matlab, C, and LATEX
+* Operating Systems: Linux, Windows
+* Other tools: Faktory (a parallel processing tool supporting Python), Microsoft Office
