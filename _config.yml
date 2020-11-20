@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Yuping Wang"
-  avatar           : "profile.png"
+  
+  avatar           : "bio_photo.jfif"
   bio              : "BU Systems Engneering PhD student working on computational social science, social computing, and social media analysis"
   location         : "Boston, MA, USA"
   employer         :
