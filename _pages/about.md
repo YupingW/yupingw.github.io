@@ -35,7 +35,7 @@ This project investigated fauxtography (images manipulated to spread misinformat
 
 [Understanding the Use of Fauxtography on Social Media](https://arxiv.org/abs/2009.11792)  
 Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini.      
-*ICWSM* , 2021.
+*ICWSM*, 2021.
 
 
 News stories on Web communities
