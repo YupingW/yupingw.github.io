@@ -12,4 +12,4 @@ Despite the influence that image-based communication has on online discourse, th
 
 [Understanding the Use of Fauxtography on Social Media](https://arxiv.org/abs/2009.11792)
 
-Recommended citation: Yuping Wang, et al. "Understanding the Use of Fauxtography on Social Media." ICWSM (2021).
+Recommended citation: Wang, Yuping, et al. "Understanding the Use of Fauxtography on Social Media." ICWSM (2021).
