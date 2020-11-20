@@ -34,8 +34,8 @@ Fauxtography on Web communities
 This project investigated fauxtography (images manipulated to spread misinformation) shared on Web communities (Twitter, Reddit, and 4chan). We found that posts containing fauxtography significantly increases users' engagements (e.g., #likes,#retweets). We also found that fauxtography are typically shared as memes. 
 
 [Understanding the Use of Fauxtography on Social Media](https://arxiv.org/abs/2009.11792)  
-*Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini.*    
-ICWSM, 2021.
+Yuping Wang, Fatemeh Tahmasbi, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, David Magerman, Savvas Zannettou, and Gianluca Stringhini.      
+*ICWSM* , 2021.
 
 
 News stories on Web communities
@@ -43,7 +43,7 @@ News stories on Web communities
 This project studied on news stories shared on Web communities (Twitter, Reddit, Gab, and 4chan). We characterized users' preference on these Web communities, and analyzed mutual influences between these online communities by using Hawkes Processes.
 
 A Multi-Platform Analysis of Political News Sharing and Discussion   
-*Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini.*    
+Yuping Wang, Savvas Zannettou, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, and Gianluca Stringhini.     
 Under review.
 
 Skills
