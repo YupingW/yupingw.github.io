@@ -48,6 +48,6 @@ Under review.
 
 Skills
 ======
-* Languages: Python, SQL, Matlab, C, and LATEX
+* Languages: Python, SQL, Matlab, C, and LaTeX
 * Operating Systems: Linux, Windows
 * Other tools: Faktory (a parallel processing tool supporting Python), Microsoft Office
