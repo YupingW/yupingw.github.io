@@ -16,6 +16,6 @@ Honors and Awards
 
 Service  
 ======
-* Artifat evaluation committee member, *ACSAC*, 2020
+* Artifat evaluation committee member, *ACSAC*, 2019
 * Reviewer, *IEEE Transactions on Automatic Control*, 2015
 
