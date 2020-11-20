@@ -20,13 +20,13 @@ Research interests
 
 Education
 ======
-* Ph.D in Systems Engineering, Boston University, 2017-2022 (expected)
+* Ph.D. in Systems Engineering, Boston University, 2017-2022 (expected)
 * M.S. in Systems Analysis and Integration, Zhejiang University, 2013-2016
 * B.E. in Automation, Huazhong University of Science and Technology, 2009-2013
 
  
 
-Projects
+Recent projects
 =======
 
 Fauxtography on Web communities
